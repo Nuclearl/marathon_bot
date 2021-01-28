@@ -1,0 +1,7 @@
+config.ini
+config.py
+test_pay.py
+marathon_bot.sql
+venv/
+.idea/
+__pycache__/
